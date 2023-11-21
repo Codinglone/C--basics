@@ -1,0 +1,15 @@
+/home/codinglone/Documents/C-Sharp/Second/bin/Debug/net6.0/Second
+/home/codinglone/Documents/C-Sharp/Second/bin/Debug/net6.0/Second.deps.json
+/home/codinglone/Documents/C-Sharp/Second/bin/Debug/net6.0/Second.runtimeconfig.json
+/home/codinglone/Documents/C-Sharp/Second/bin/Debug/net6.0/Second.dll
+/home/codinglone/Documents/C-Sharp/Second/bin/Debug/net6.0/Second.pdb
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/Second.csproj.AssemblyReference.cache
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/Second.GeneratedMSBuildEditorConfig.editorconfig
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/Second.AssemblyInfoInputs.cache
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/Second.AssemblyInfo.cs
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/Second.csproj.CoreCompileInputs.cache
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/Second.dll
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/refint/Second.dll
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/Second.pdb
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/Second.genruntimeconfig.cache
+/home/codinglone/Documents/C-Sharp/Second/obj/Debug/net6.0/ref/Second.dll
